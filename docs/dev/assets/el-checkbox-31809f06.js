@@ -1,0 +1,1 @@
+import{s as t,o as s,i as e}from"./el-tag-4ad610f8.js";import{i as o}from"./_Uint8Array-e3e0421f.js";import{f as a}from"./admin-ad3d5783.js";function c(i,r){return t(s(i,r,e),i+"")}function f(i){return a(i)&&o(i)}export{c as b,f as i};
